@@ -20,4 +20,5 @@ Acerca del Juego:
 Importante:
 - Aunque se siguio el video, algunas cosas son diferentes ademas que se agregó algunas funcionalidades.
 - Para ejecutarlo, pegue las tres carpetas dentro de la carpeta src del proyecto.
+
 ![SCREENSHOT](screenshot/screenshot_1.png)
