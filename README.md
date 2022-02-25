@@ -20,4 +20,4 @@ Acerca del Juego:
 Importante:
 - Aunque se siguio el video, algunas cosas son diferentes ademas que se agregó algunas funcionalidades.
 
-![ss](screenshot/screenshot_1.png)
+![SCREENSHOT](screenshot/screenshot_1.png)
