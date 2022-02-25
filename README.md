@@ -13,7 +13,7 @@ Para este proyecto se hizo uso de :
 - Logica basica (condicionales, bucles, contadores y acumuladores etc.)
 
 Acerca del Juego:
-- Se mueve con las teclas G,K,Y,H.
+- Se mueve con las teclas A,W,S,D.
 - Actualiza el puntaje cada vez que come.
 - Aumenta la velocidad cada vez que come.
 
