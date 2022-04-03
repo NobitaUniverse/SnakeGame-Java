@@ -14,8 +14,8 @@ Para este proyecto se hizo uso de :
 
 Acerca del Juego:
 - Se mueve con las teclas A,W,S,D.
-- Actualiza el puntaje cada vez que come.
-- Aumenta la velocidad cada vez que come.
+- Actualiza el puntaje cada vez que la serpiente come.
+- Aumenta la velocidad cada vez que la serpiente come.
 
 Importante:
 - Aunque se siguio el video, algunas cosas son diferentes ademas que se agregó algunas funcionalidades.
