@@ -1,10 +1,6 @@
 # SnakeGame-Java
 Juego clásico de Snake desarrollado en Java con Eclipse.
 
-El siguiente programa fue desarrollado siguiendo el video:
-https://youtu.be/Fh5fFE5h8tw
-del canal "Código Lobo"
-
 Para este proyecto se hizo uso de :
 - Clase Graphic.
 - Clase Math.
@@ -22,3 +18,6 @@ Importante:
 - Para ejecutarlo, pegue las tres carpetas dentro de la carpeta src del proyecto.
 
 ![SCREENSHOT](screenshot/screenshot_1.png)
+
+## Referencia
+https://youtu.be/Fh5fFE5h8tw
