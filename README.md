@@ -14,7 +14,7 @@ Acerca del Juego:
 - Se mueve con las teclas A,W,S,D.
 - El juego actualiza el puntaje e incrementa la velocidad cada vez que la serpiente come.
 
-
+---
 
 
 
