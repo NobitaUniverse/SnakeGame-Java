@@ -1,5 +1,7 @@
 # SnakeGame-Java
-Juego clásico de Snake desarrollado en Java con Eclipse.
+Juego clásico de Snake desarrollado en Java con el IDE Eclipse. <img src="img/snake_gif.gif" width="380" align="right" style="margin:16px" />
+
+Video : https://youtu.be/OZe4mcL8sxA
 
 Para este proyecto se hizo uso de :
 - Clase Graphic.
@@ -10,14 +12,13 @@ Para este proyecto se hizo uso de :
 
 Acerca del Juego:
 - Se mueve con las teclas A,W,S,D.
-- Actualiza el puntaje cada vez que la serpiente come.
-- Aumenta la velocidad cada vez que la serpiente come.
+- El juego actualiza el puntaje e incrementa la velocidad cada vez que la serpiente come.
 
-Importante:
-- Aunque se siguio el video, algunas cosas son diferentes ademas que se agregó algunas funcionalidades.
-- Para ejecutarlo, pegue las tres carpetas dentro de la carpeta src del proyecto.
 
-![SCREENSHOT](screenshot/screenshot_1.png)
 
-### Referencia
-https://youtu.be/Fh5fFE5h8tw
+
+
+
+
+### Nota
+Este proyecto se desarrolló siguiendo este video https://youtu.be/Fh5fFE5h8tw pero agregando nuevas funcionalidades para mejorarlo.
