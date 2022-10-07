@@ -15,10 +15,5 @@ Acerca del Juego:
 - El juego actualiza el puntaje e incrementa la velocidad cada vez que la serpiente come.
 
 ---
-
-
-
-
-
-### Nota
+#### Nota
 Este proyecto se desarrolló siguiendo este video https://youtu.be/Fh5fFE5h8tw pero agregando nuevas funcionalidades para mejorarlo.
