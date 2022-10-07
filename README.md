@@ -1,5 +1,5 @@
 # SnakeGame-Java
-Juego clásico de Snake desarrollado en Java con el IDE Eclipse. <img src="img/snake_gif.gif" width="380" align="right" style="margin:16px;" />
+Juego clásico de Snake desarrollado en Java con el IDE Eclipse. <img src="img/snake_gif.gif" width="360" align="right" style="margin:10px" />
 
 Video : https://youtu.be/OZe4mcL8sxA
 
